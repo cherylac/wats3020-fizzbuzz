@@ -9,7 +9,7 @@ let isInteger,
 // TODO: Initialize a variable `isInteger` to use as a control value for the
 // `while` loop. Set the initial value to `false`.
 
-let isInteger = false;
+isInteger = false;
 // TODO: Create a `while` loop so user will be prompted to enter a number until
 // they enter a good number. This loop should be controlled by a conditional
 // expression that looks at the value of `isSafeInteger`. When `isSafeInteger`
