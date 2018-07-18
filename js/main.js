@@ -18,6 +18,7 @@ while (!isInteger ) {
     maxNumber = parseInt(maxNumber);
     if (Number.isSafeInteger(maxNumber) && maxNumber > 0){
         isInteger = true;
+    } else { alert('Must be greater than 0')
     }
     
 }
